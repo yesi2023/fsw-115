@@ -1,0 +1,68 @@
+{
+  "menu": [
+    {
+      "appetizers": [
+        {
+          "name": "Mozzarella Sticks",
+          "description": "deep-fried snacks composed of sliced cheeses wrapped in spring roll wrapper.",
+          "ingredients": ["cheese", "flour", "milk"]
+        },
+        {
+          "name": "Bang Bang Shrimp",
+          "description": "Fried Shrimp, spicy sweet creamy sauce.",
+          "ingredients": ["mayonnaise", "Thai sweet", "chili sauce"]
+        }
+      ],
+
+      "coldSandwiches": [
+        {
+          "name": "Chicken Sandwich",
+          "description": "boneless, skinless chicken breast or thigh served between slices of bread, on a bun, or on a roll.",
+          "ingredients": ["chicken", "lettuce", "Tomatoe"]
+        },
+        {
+          "name": "Turkey & Swiss",
+          "description": "Turkey & Swiss Cheese on whole wheat Bread",
+          "ingredients": ["Turkey", "Swiss", "lettuce"]
+        }
+      ],
+      "hotSandwiches": [
+        {
+          "name": "Mojito Pulled Pork",
+          "description": "pulled pork on a buttery slice of bread",
+          "ingredients": ["boneless pork", "salt", "barbecue"]
+        },
+        {
+          "name": "Philly Cheese",
+          "description": "Boneless beef and veggies served on a sesame bun",
+          "ingredients": ["boneless beef", "Basil", "Sesame Bun"]
+        }
+      ],
+
+      "desserts": [
+        {
+          "name": "Cheese Cake",
+          "description": "luscious, rich and sweet dessert",
+          "ingredients": ["cream cheese", "sugar", "whipped cream"]
+        },
+        {
+          "name": "carrot Cake",
+          "description": "a spice cake topped off with cream cheese",
+          "ingredients": ["flour", "Egg", "carrots"]
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Mega Green",
+          "description": "Simply nutritious from five juice concentrate",
+          "ingredients": ["apples", "pineapple", "spinach"]
+        },
+        {
+          "name": "Mega Green",
+          "description": "Simply nutritious from five juice concentrate",
+          "ingredients": ["apples", "pineapple", "spinach"]
+        }
+      ]
+    }
+  ]
+}
