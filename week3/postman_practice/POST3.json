@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "0ec63fea-bd88-4d76-aeda-6c2c1eaaa856",
+        "name": "This is my first to do list",
+        "description": "Master JavaScript",
+        "price": 1,
+        "isComplete": false,
+        "user": "IrmaRodriguez1",
+        "createdAt": "2022-04-13T06:06:54.000Z",
+        "updatedAt": "2022-04-13T06:06:54.000Z"
+    },
+    {
+        "_id": "8668c47a-259b-4318-aa4b-65397e44d049",
+        "name": "This is my third to do list",
+        "description": "Create Projects",
+        "price": 3,
+        "isComplete": false,
+        "user": "IrmaRodriguez1",
+        "createdAt": "2022-04-13T06:18:58.000Z",
+        "updatedAt": "2022-04-13T06:18:58.000Z"
+    },
+    {
+        "_id": "cbbe7ca4-e45c-421d-a233-077a552cfd3c",
+        "name": "This is my second to do list",
+        "description": "Learn Python",
+        "price": 2,
+        "isComplete": true,
+        "user": "IrmaRodriguez1",
+        "createdAt": "2022-04-13T06:13:32.000Z",
+        "updatedAt": "2022-04-13T06:13:32.000Z"
+    }
+]
